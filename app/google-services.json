@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "131643556532",
+    "firebase_url": "https://firstgeekme.firebaseio.com",
+    "project_id": "firstgeekme",
+    "storage_bucket": "firstgeekme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131643556532:android:6f902eca0d9c3bd1",
+        "android_client_info": {
+          "package_name": "com.example.geek.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131643556532-p2mag3mbvd8u3g50sqerh8kuhole6ein.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzslWv9pRz8yoA9tWaVdGi1GtQSrcUjGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
